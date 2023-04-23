@@ -1,8 +1,7 @@
 #include<stdio.h> 
 int main(){
-     int testInteger;
-    printf("Enter an integer: ");
-    scanf("%d", &testInteger);  
-    printf("Number = %d",testInteger);
+    int a,b;
+    scanf("%d %d",&a,&b);
+    printf("%d %d",a,b);
     return 0;
 }

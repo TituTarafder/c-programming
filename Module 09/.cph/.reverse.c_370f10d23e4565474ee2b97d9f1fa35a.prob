@@ -1,0 +1,1 @@
+{"name":"Local: reverse","url":"g:\\code\\Phitron-B3\\C programming\\Module 08\\reverse.c","tests":[{"id":1682357028771,"input":"5\n1 2 3 4 5\n","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\code\\Phitron-B3\\C programming\\Module 08\\reverse.c","group":"local","local":true}

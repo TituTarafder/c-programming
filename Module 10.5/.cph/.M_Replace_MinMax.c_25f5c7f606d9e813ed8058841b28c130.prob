@@ -1,0 +1,1 @@
+{"name":"Local: M_Replace_MinMax","url":"g:\\code\\Phitron-B3\\C programming\\Module 10.5\\M_Replace_MinMax.c","tests":[{"id":1682500630479,"input":"5 \n1 2 3 4 5","output":"5 2 3 4 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\code\\Phitron-B3\\C programming\\Module 10.5\\M_Replace_MinMax.c","group":"local","local":true}
